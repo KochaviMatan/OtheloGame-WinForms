@@ -1,0 +1,19 @@
+==========================Exercise Checking Report==========================
+
+Exercise No...........: 05
+
+First Student Details.: 305340242 - Lavi Ketner
+
+Second Student Details: 203108303 - Matan Kochavi
+
+Delivery Date.........: 16.06.2019
+
+Delivered In Delay....: No
+
+Delay Reason..........: -
+
+Visual Studio Version.: 15.9.7
+
+Comments..............:  
+
+=======================End Exercise Checking Report=========================
